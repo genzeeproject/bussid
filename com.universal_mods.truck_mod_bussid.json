@@ -1,0 +1,46 @@
+{
+   "info":"Truck mod for bussid",
+   "total":4,
+   "result":[
+      {
+         "id":1,
+         "title":"Canter Antobollo Full Anim",
+         "thumbnail":"https://livemovies.club/bussid/truck/truck_canter_antobollo_full_anim.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/truck/truck_canter_antobollo_full_anim.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":2,
+         "title":"Canter Muatan Ayam Full Strobo",
+         "thumbnail":"https://livemovies.club/bussid/truck/truck_canter_muatan_ayam_full_strobo.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/truck/truck_canter_muatan_ayam_full_strobo.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":3,
+         "title":"Canter Wahyu Abadi Terbaru Full Anim",
+         "thumbnail":"https://livemovies.club/bussid/truck/truck_canter_wahyu_abadi_terbaru_full_anim.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/truck/truck_canter_wahyu_abadi_terbaru_full_anim.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":4,
+         "title":"Ragasa Full Terpal Animasi Strobo",
+         "thumbnail":"https://livemovies.club/bussid/truck/truck_ragasa_full_terpal_animasi_strobo.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/truck/truck_ragasa_full_terpal_animasi_strobo.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      }
+   ]
+}

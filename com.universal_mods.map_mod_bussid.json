@@ -1,0 +1,56 @@
+{
+   "info":"Map mod for bussid",
+   "total":5,
+   "result":[
+      {
+         "id":1,
+         "title":"Bukit Bintang Jalur Terjal Ekstrim",
+         "thumbnail":"https://livemovies.club/bussid/map/map_bukit_bintang_jalur_terjal_ekstrim.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/map/map_bukit_bintang_jalur_terjal_ekstrim.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":2,
+         "title":"Jalur Bukit Hutan Dan Berkelok",
+         "thumbnail":"https://livemovies.club/bussid/map/map_jalur_bukit_hutan_dan_berkelok.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/map/map_jalur_bukit_hutan_dan_berkelok.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":3,
+         "title":"Kelok 18",
+         "thumbnail":"https://livemovies.club/bussid/map/map_kelok_18.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/map/map_kelok_18.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":4,
+         "title":"Pedesaan Kab Karawang",
+         "thumbnail":"https://livemovies.club/bussid/map/map_pedesaan_kab_karawang.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/map/map_pedesaan_kab_karawang.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      },
+      {
+         "id":5,
+         "title":"Tol Trans Jawa",
+         "thumbnail":"https://livemovies.club/bussid/map/map_tol_trans_jawa.webp",
+         "screenshot":"bussidmod",
+         "fileurl":"https://livemovies.club/bussid/map/map_tol_trans_jawa.zip",
+         "type":"Mod+Livery",
+         "extension":"bussidmod",
+         "description":"bussidmod"
+      }
+   ]
+}
